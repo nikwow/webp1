@@ -1,0 +1,16 @@
+.div1 {
+    background-color: #ffa500;
+    border: 10px solid #008000;
+    height: 200px;
+    width: 200px;
+}
+
+.div2 {
+    background-color: #800080;
+    border-bottom: 10px solid #ffff00;
+    border-top: 10px solid #ffff00;
+    border-left: 10px solid #a52a2a;
+    border-right: 10px solid #a52a2a;
+    height: 200px;
+    width: 200px;
+}
