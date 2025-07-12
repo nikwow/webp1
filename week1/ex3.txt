@@ -1,0 +1,18 @@
+3. Compare sites estaticos e dinamicos, destacando
+suas principais diferencas, vantagens e 
+desvantagens.
+    R = Estaticos: Sao compostos por pagina com conteudo fixo, geralmente escritos
+    em HTML e CSS, que nao mudam a menos que alguem edite o codigo
+    manualmente. 
+    Vantagens: Mais rapidos, menor custo de hospedagem e manutencao e mais seguro.
+    Desvantagens: Pouco flexivel e dificil de atualizar com frequencia ou em larga escala.
+
+    Dinamicos: Tem paginas que mudam conforme a interacao do usuario ou
+    os dados armazenados em um banco de dados. Sao criados usando linguagens
+    como PHP, JavaScript, Python ou frameworks modernos, e permitem
+    funcionalidades como login, comentarios, formularios interativos e atualizacoes
+    automaticas de conteudo.
+    Vantagens: Conteudo atualizado automaticamente, alta interatividade com o usuario e 
+    melhor escabilidade e integracao com banco de dados.
+    Desvantagens: Requer mais recursos do servidor e pode ser mais vulneravel a falhas ou
+    ataques se mal configurado.

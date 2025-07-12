@@ -1,0 +1,13 @@
+2. Descreva a arquitetura cliente-servidor e explique
+ela funciona na pratica.
+    R = Cliente: E o dispositivo ou software que faz requisicoes (pedidos de
+    informacoes ou servicos).
+    Servidor: E o dispositivo ou software que recebe essas requisicoes, processa e 
+    envia de volta uma resposta.
+
+    Como funciona na pratica:
+    1. O Cliente (como um navegador de internet) envia uma requisicao a um Servidor
+    (por exemplo, para acessar um site).
+    2. O Servidor (onde o site esta hospedado) recebe a requisicao, processa os
+    dados e envia de volta a resposta (como o conteudo da pagina web).
+    3. O Cliente exibe a resposta ao usuario.

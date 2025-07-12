@@ -1,0 +1,10 @@
+1. Descreva brevemente o que e a Internet e como 
+ela permite a comunicacao e troca de informacoes 
+em escala global.
+    R = A Internet e uma rede mundial de computadores
+    interligados que permite a comunicacao e o compartilhamento
+    de informacoes entre pessoas, empresas e dispositivos
+    em todo o mundo. Ela funciona por meio de uma infraestrutura
+    de cabos, satelites, servidores e protocolos de comunicacao
+    (como o TCP/IP) que permite a transmissao de dados entre
+    diferentes pontos da rede.
