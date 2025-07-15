@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+
+.div1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
